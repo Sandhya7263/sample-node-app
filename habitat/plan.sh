@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=hab-rails-app
+pkg_origin=sample-node
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
